@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VitalAir</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #003d34; /* Dark green color */
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 0 10px;
+        }
+        h1, h2 {
+            color: #00796b; /* Lighter green color */
+        }
+        .content {
+            background-color: #f1f8f7; /* Light green background */
+            padding: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #003d34; /* Dark green color */
+            color: #ffffff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #00796b; /* Lighter green color */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to VitalAir</h1>
+        <p>Experience clarity, focus, and a refreshing rush with our nasal products.</p>
+    </header>
+    
+    <section class="content">
+        <h2>About Us</h2>
+        <p>At VitalAir, we are dedicated to providing high-quality nasal products that promote clarity, a cold rush, and enhanced focus. Our unique formula combines menthol, eucalyptus oil, and peppermint oil to deliver a revitalizing experience with every use.</p>
+        
+        <h2>Our Products</h2>
+        <p>Our flagship product, Wintermint, offers a refreshing blend of menthol, eucalyptus oil, wintergreen oil, peppermint oil, and spearmint oil. We also offer a Citrus scent featuring tangerine oil, orange oil, grapefruit oil, menthol, eucalyptus oil, and peppermint oil. Stay tuned for additional exciting scents!</p>
+        
+        <h2>Contact Us</h2>
+        <p>For inquiries or more information, please reach out to us at <a href="mailto:info@vitalair.com">info@vitalair.com</a>.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 VitalAir. All rights reserved.</p>
+    </footer>
+</body>
+</html>
